@@ -5,4 +5,3 @@ rama
 test 
 sample
 qwers 
-lpoisj
